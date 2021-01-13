@@ -1,2 +1,2 @@
 # professionalReadmeGen
-<iframe src="https://drive.google.com/file/d/1sDa3hRnGqazsa5M7_9oUxIOaQl9O1Yw_/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1M0j0TtVGl65CfZVx_eOAJJ3l4oJgwWqM/view?usp=sharing
