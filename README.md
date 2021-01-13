@@ -40,4 +40,4 @@
   ## Questions
   [Link to Creator Github](https://github.com/dannyjs25)
 
-  For any questions please contact  [Daniel.jsan25@gmail.com@gmail.com](Daniel.jsan25@gmail.com@gmail.com
+  For any questions please contact  [Daniel.jsan25@gmail.com](Daniel.jsan25@gmail.com@gmail.com)
