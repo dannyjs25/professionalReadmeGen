@@ -40,6 +40,4 @@
   ## Questions
   [Link to Creator Github](https://github.com/dannyjs25)
 
-  Please forward all questions about the project to [Daniel.jsan25@gmail.com@gmail.com](Daniel.jsan25@gmail.com@gmail.com)
-  
-
+  Please forward all questions about the project to [Daniel.jsan25@gmail.com@gmail.com](Daniel.jsan25@gmail.com@gmail.com
