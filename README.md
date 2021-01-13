@@ -35,7 +35,7 @@
  ![badmath](https://img.shields.io/badge/license-GPL_3.0-green)  
 
   ## Tests
-  There is currently no testing instruction, testing documentation and code will be applied in the next phase of development
+  There is currently no testing instruction
 
   ## Questions
   [Link to Creator Github](https://github.com/dannyjs25)
